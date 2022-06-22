@@ -1,0 +1,77 @@
+html { background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);  
+background-repeat: no-repeat;
+background-size: 200vh 100vh;
+display: flex;
+justify-content: center;
+align-content: center;
+font-family: 'Ubuntu', sans-serif;
+color: #FFFFFF;
+}
+
+.holder{
+  margin-top: 10vh;
+  width: 70vh;
+  height: 80vh;
+ background: rgba( 255, 255, 255, 0.25 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 15px );
+-webkit-backdrop-filter: blur( 15px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  color:#FFFFFF;
+  margin-left: 20vh;
+  margin-top: 10vh;
+}
+
+.o , .t {
+  font-family: 'Ubuntu', sans-serif;
+  align-self: center;
+  justify-self: center;
+     padding-left:20px;
+     font-size: 16px;
+     border-width: 1px;
+     border-color:rgba( 255, 255, 255, 0.25 ) ;
+     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+     backdrop-filter: blur(15px);
+     -webkit-backdrop-filter: blur(15px);
+   margin-top: 5vh;
+     border-radius: 20px;
+     border-style: inset;
+     height:5vh ;
+     background-color: rgba( 255, 255, 255, 0.25 );
+     width:50vh;
+     color: #FFFFFF;
+     margin-left:8vh;
+     outline:none;
+     box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+backdrop-filter: blur(15px);
+-webkit-backdrop-filter: blur(15px);
+}
+.c{
+  margin-top: 5vh;
+  margin-left: 10vh;
+  border: none;
+}
+
+button{
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  border-radius: 2vh;
+  border:none;
+  height:5vh ;
+  width:10vh ;
+background-color: rgba( 255, 255, 255, 0.25 );
+outline:none;
+box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+margin-top: 5vh;
+margin-left: 28vh;
+}
+
+a{
+  color:#FFFFFF;
+}
